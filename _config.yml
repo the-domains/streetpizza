@@ -1,29 +1,41 @@
-name: streetpizza
-favicon: null
-layout_spectrum: 0.4253654850181192
-typography_spectrum: 0.9538412468973547
 title: Kevin Middleton
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.811828
+  lightness: 0.8942652
+  brandStrength: 0.5
+  brandColors:
+    - '#020000'
+    - '#FF011E'
+    - '#00B442'
+    - '#FFF49A'
+    - '#0198BE'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-644883-4
   facebook: null
-  twitter: null
+favicon: null
+name: streetpizza
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.4806061072740704
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.6290323
+layout_spectrum: 0.8853046
