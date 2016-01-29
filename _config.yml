@@ -1,5 +1,8 @@
+name: Kevin Middleton
+favicon: null
+layout_spectrum: 0.8853046
+typography_spectrum: 0.6290323
 title: Kevin Middleton
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.811828
-  lightness: 0.8942652
-  brandStrength: 0.5
-  brandColors:
-    - '#020000'
-    - '#FF011E'
-    - '#00B442'
-    - '#FFF49A'
-    - '#0198BE'
-  rhythmicContrast: 1
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: UA-644883-4
   facebook: null
-favicon: null
-name: Kevin Middleton
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.6290323
-layout_spectrum: 0.8853046
+color:
+  brandColors:
+    - '#c2c2c2'
+    - '#002577'
+    - '#8e9900'
+    - '#c91e1f'
+    - '#4e0014'
+  brandStrength: 0.25
+  lightness: 0.75
+  saturation: 0.1875
+  rhythmicContrast: 1
+purpose: []
